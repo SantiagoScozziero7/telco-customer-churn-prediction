@@ -6,10 +6,6 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
-# Datos crudos (si son pesados o no querÃ©s versionarlos)
-data/raw/*
-!data/raw/.gitkeep
-
 # Archivos del sistema
 .DS_Store
 Thumbs.db
