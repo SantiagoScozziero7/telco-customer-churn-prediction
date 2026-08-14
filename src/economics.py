@@ -11,3 +11,9 @@ def calcular_ahorro_neto(probabilidades, y_real, LTV, umbral, tasa_exito, costo_
     ahorro_neto = beneficio_vp - costo_fp
     
     return ahorro_neto
+
+def calcular_campana_masiva(LTV, son_churn_real, total_clientes, tasa_exito, costo_campana):
+    LTV_de_los_que_se_van = LTV[son_churn_real]
+    beneficio_retenidos = (LTV_de_los_que_se_van * tasa_exito - costo_campana).sum()
+    costo_resto = (total_clientes - son_churn_real.sum()) * costo_campana
+    return beneficio_retenidos - costo_resto
