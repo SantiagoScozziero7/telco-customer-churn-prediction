@@ -141,11 +141,11 @@ notebook 1.
 
 **Exploración de escenarios** — ajuste en vivo de supuestos económicos y umbral de decisión:
 
-![Modo exploración](../docs/screenshots/Captura2.png)
+![Modo exploración](../docs/screenshots/exploracion_escenarios.png)
 
 **Predicción de cliente individual** — estimación de riesgo para un cliente hipotético:
 
-![Modo cliente individual](../docs/screenshots/Captura1.png)
+![Modo cliente individual](../docs/screenshots/prediccion_individual.png)
 
 ## Cómo correr el proyecto
 
