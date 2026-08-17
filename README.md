@@ -5,7 +5,7 @@ telecomunicaciones tienen mayor riesgo de darse de baja (churn), y traduce esa
 predicción en impacto económico real para justificar su implementación frente al
 negocio.
 
-🔗 **[Probar el dashboard en vivo](PENDIENTE: agregar link de Streamlit Cloud)**
+🔗 **[Probar el dashboard en vivo](https://telco-customer-churn-prediction-4oq8bzv5vwk3sjwsnvstgp.streamlit.app/)**
 
 
 
