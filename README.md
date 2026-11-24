@@ -162,15 +162,17 @@ pip install -r requirements.txt
 ```
 
 ### Estructura del proyecto
+```text
 telco-churn-prediction/
 ├── data/
-│ ├── raw/ # Dataset original (Kaggle)
-│ └── processed/ # Datos limpios y transformados
-├── notebooks/ # Los 4 notebooks del análisis, en orden
-├── src/ # Funciones reutilizables (modeling.py, economics.py)
-├── streamlit_app/ # Dashboard interactivo
-├── docs/excalidraw/ # Diagrama del ciclo CRISP-DM del proyecto
+│   ├── raw/               # Dataset original (Kaggle)
+│   └── processed/         # Datos limpios y transformados
+├── notebooks/             # Los 4 notebooks del análisis, en orden
+├── src/                   # Funciones reutilizables (modeling.py, economics.py)
+├── streamlit_app/         # Dashboard interactivo
+├── docs/excalidraw/       # Diagrama del ciclo CRISP-DM del proyecto
 └── requirements.txt
+```
 
 ### Ejecutar los notebooks
 
