@@ -86,9 +86,7 @@ Mining), documentado en 4 notebooks secuenciales dentro de `notebooks/`:
 4. **`04_evaluacion_impacto_economico.ipynb`** — Traducción del desempeño de los
    modelos a impacto económico, comparación contra escenarios alternativos (no actuar,
    campaña masiva), optimización del umbral de decisión y análisis de sensibilidad.
-
-*PENDIENTE: agregar imagen del diagrama de Excalidraw (docs/excalidraw/) ilustrando
-el ciclo CRISP-DM aplicado a este proyecto.*
+  
 
 ### Decisiones técnicas relevantes
 
